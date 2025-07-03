@@ -1,1 +1,1 @@
-# fubotvlink
+# fubo.tv/link
