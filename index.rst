@@ -8,7 +8,7 @@ Enter your FuboTV code easily at fubo.tv/link today and start watching live TV i
 
 .. image:: activatenow.png
    :alt: fubo.tv/link
-   :target: https://fm.ci?aHR0cHM6Ly9mdWJvdHZsaW5rLWhlbHBsaW5lLnJlYWR0aGVkb2NzLmlv
+   :target: https://sites.google.com/view/fubotvconnect-help/
 
 ========================================
 How to Use fubo.tv/link Today Without Confusion?
